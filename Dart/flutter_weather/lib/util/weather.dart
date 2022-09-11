@@ -1,0 +1,17 @@
+enum Weather {
+  thunderstorm,
+  drizzle,
+  rain,
+  snow,
+  mist,
+  smoke,
+  haze,
+  dust,
+  fog,
+  sand,
+  ash,
+  squall,
+  tornado,
+  clear,
+  clouds,
+}
